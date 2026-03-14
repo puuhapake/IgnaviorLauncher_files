@@ -1,10 +1,12 @@
 {
     "games": {
         "mighty_muckers": {
+            "name": "Mighty Muckers",
             "latest": "2",
             "base": {
                 "version": "1",
                 "url": "https://github.com/artmedland/IgnaviorLauncher_files/releases/download/content/mighty_muckers.rar"
+                
             },
             "patches": [
                 {
@@ -15,6 +17,7 @@
             ]
         },
         "blakes_adventure": {
+            "name": "Blake's Adventure",
             "latest": "3",
             "base": {
                 "version": "1",
