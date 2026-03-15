@@ -5,14 +5,14 @@
             "latest": "2",
             "base": {
                 "version": "1",
-                "url": "https://github.com/artmedland/IgnaviorLauncher_files/releases/download/content/mighty_muckers.rar"
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/mighty_muckers_v1.rar"
                 
             },
             "patches": [
                 {
                     "from": "1",
                     "to": "2",
-                    "url": "https://github.com/artmedland/IgnaviorLauncher_files/releases/download/content/mighty_muckers_v2.rar"
+                    "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/mighty_muckers_v2.rar"
                 }
             ]
         },
@@ -21,18 +21,18 @@
             "latest": "3",
             "base": {
                 "version": "1",
-                "url": "https://github.com/artmedland/IgnaviorLauncher_files/releases/download/content/blakes_adventure_v1.rar"
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/blakes_adventure_v1.rar"
             },
             "patches": [
                 {
                     "from": "1",
                     "to": "2",
-                    "url": "https://github.com/artmedland/IgnaviorLauncher_files/releases/download/content/blakes_adventure_v2.rar"
+                    "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/blakes_adventure_v2.rar"
                 },
                 {
                     "from": "2",
                     "to": "3",
-                    "url": "https://github.com/artmedland/IgnaviorLauncher_files/releases/download/content/blakes_adventure_v3.rar"
+                    "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/blakes_adventure_v3.rar"
                 }
             ]
         }
