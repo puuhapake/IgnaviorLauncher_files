@@ -3,6 +3,10 @@
         "mighty_muckers": {
             "name": "Mighty Muckers",
             "latest": "2",
+            "versionNames": {
+                "1": "v1.0.0",
+                "2": "v2.0 Rotating Cube Edition"
+            }
             "base": {
                 "version": "1",
                 "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/mighty_muckers_v1.rar"
@@ -19,6 +23,11 @@
         "blakes_adventure": {
             "name": "Blake's Adventure",
             "latest": "3",
+            "versionNames": {
+                "1": "Version 1",
+                "2": "Version 2",
+                "3": "Version 3 - Ending"
+            }
             "base": {
                 "version": "1",
                 "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/blakes_adventure_v1.rar"
