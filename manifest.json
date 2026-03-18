@@ -44,5 +44,27 @@
                 }
             ]
         }
+        "tuusula": {
+            "name": "Tuusula",
+            "latest": "2",
+            "versionNames": {
+                "1": "v1.0 Välkommen till Tusby",
+                "2": "v2.0 Morbror Göran",
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula.rar"
+            },
+            "patches": [
+                {
+                    "from": "1",
+                    "to": "2",
+                    "parts": [
+                        "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_v2.0.part1.rar",
+                        "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_v2.0.part2.rar"
+                    ]
+                }
+            ]
+        }
     }
 }
