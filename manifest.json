@@ -60,8 +60,8 @@
                     "from": "1",
                     "to": "2",
                     "parts": [
-                        "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_v2.0.part1.rar",
-                        "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_v2.0.part2.rar"
+                        { "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_v2.0.part1.rar" },
+                        { "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_v2.0.part2.rar" }
                     ]
                 }
             ]
