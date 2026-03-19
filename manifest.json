@@ -12,7 +12,11 @@
                     { "url" : "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula.part1.rar" },
                     { "url" : "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula.part2.rar" }
                 ]
+            },
+            "patches": [
+            {
             }
+            ]
         }
     }
 }
