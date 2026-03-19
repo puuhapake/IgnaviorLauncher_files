@@ -16,6 +16,90 @@
             "patches": [
             
             ]
-        }
+        },
+        "boat_game": {
+            "name": "Boat Game",
+            "latest": "1",
+            "versionNames": {
+                "1": "Version 1"
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/boatgame.rar"
+            },
+            "patches": []
+        },
+        "borkopeli": {
+            "name": "Börköpeli",
+            "latest": "1",
+            "versionNames": {
+                "1": "Version 1"
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/borkopeli.rar"
+            },
+            "patches": []
+        },
+        "borkopeli_vr": {
+            "name": "Börköpeli VR",
+            "latest": "1",
+            "versionNames": {
+                "1": "Version 1"
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/borkopeli_vr.rar"
+            },
+            "patches": []
+        },
+        "dream": {
+            "name": "The Dream",
+            "latest": "1",
+            "versionNames": {
+                "1": "by Bashir Erafran"
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/dream.rar"
+            },
+            "patches": []
+        },
+        "fishurkpuppet": {
+            "name": "Fish Urk Puppet",
+            "latest": "1",
+            "versionNames": {
+                "1": "Version 1"
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/fishurkpuppet.rar"
+            },
+            "patches": []
+        },
+        "ppbday": {
+            "name": "Super Secret Game",
+            "latest": "1",
+            "versionNames": {
+                "1": "4 Jan 2025"
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/ppbday.rar"
+            },
+            "patches": []
+        },
+        "sirengame": {
+            "name": "Siren Game",
+            "latest": "1",
+            "versionNames": {
+                "1": "Version 1"
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/sirengame.rar"
+            },
+            "patches": []
+        },
     }
 }
