@@ -1,95 +1,18 @@
 {
     "games": {
-        "mighty_muckers": {
-            "name": "Mighty Muckers",
-            "latest": "2",
-            "versionNames": {
-                "1": "v1.0.0",
-                "2": "v2.0 Rotating Cube Edition"
-            },
-            "base": {
-                "version": "1",
-                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/mighty_muckers_v1.rar"
-            },
-            "patches": [
-                {
-                    "from": "1",
-                    "to": "2",
-                    "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/mighty_muckers_v2.rar"
-                }
-            ]
-        },
-        "blakes_adventure": {
-            "name": "Blake's Adventure",
-            "latest": "3",
-            "versionNames": {
-                "1": "Version 1",
-                "2": "Version 2",
-                "3": "Version 3 - Ending"
-            },
-            "base": {
-                "version": "1",
-                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/blakes_adventure_v1.rar"
-            },
-            "patches": [
-                {
-                    "from": "1",
-                    "to": "2",
-                    "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/blakes_adventure_v2.rar"
-                },
-                {
-                    "from": "2",
-                    "to": "3",
-                    "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/blakes_adventure_v3.rar"
-                }
-            ]
-        },
         "tuusula": {
             "name": "Tuusula",
-            "latest": "2",
+            "latest": "1",
             "versionNames": {
-                "1": "v1.0 Välkommen till Tusby",
-                "2": "v2.0 Morbror Göran"
-            },
-            "base": {
-                "version": "1",
-                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula.rar"
-            },
-            "patches": [
-                {
-                    "from": "1",
-                    "to": "2",
-                    "parts": [
-                        { "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_v2.0.part1.rar" },
-                        { "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_v2.0.part2.rar" }
-                    ]
-                }
-            ]
-        },
-        "morbuculus": {
-            "name": "Echoes of Morbuculus",
-            "latest": "2",
-            "versionNames": {
-                "1": "Version 1",
-                "2": "Version 2"
+                "1": "v2.0 Morbror Göran"
             },
             "base": {
                 "version": "1",
                 "parts": [
-                    { "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/morbuculus.part1.rar" },
-                    { "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/morbuculus.part2.rar" }
+                    { "url" : "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula.part1.rar" },
+                    { "url" : "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula.part2.rar" }
                 ]
-            },
-            "patches": [
-                {
-                    "from": "1",
-                    "to": "2",
-                    "parts": [
-                        { "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/morbuculus_v2.part1.rar" },
-                        { "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/morbuculus_v2.part2.rar" }
-                    ]
-                }
-            ]
+            }
         }
     }
 }
