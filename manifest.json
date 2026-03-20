@@ -124,6 +124,17 @@
                 "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/rocket_game.rar"
             },
             "patches": []
+        },
+        "code_within": {
+            "name": "The Code Within",
+            "latest": "1",
+            "versionNames" : {
+                "1": "v1 Birthday Release"
+            },
+            "base" : {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/code_within.rar"
+            }
         }
     }
 }
