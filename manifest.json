@@ -128,12 +128,23 @@
         "code_within": {
             "name": "The Code Within",
             "latest": "1",
-            "versionNames" : {
+            "versionNames": {
                 "1": "v1 Birthday Release"
             },
             "base" : {
                 "version": "1",
                 "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/code_within.rar"
+            }
+        },
+        "kundi_sim": {
+            "name": "Pihakundit Simulator",
+            "latest": "1",
+            "versionNames": {
+                "1": "Original"
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/kundi_sim.rar"
             }
         }
     }
