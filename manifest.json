@@ -100,6 +100,30 @@
                 "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/sirengame.rar"
             },
             "patches": []
+        },
+        "horror_within": {
+            "name": "The Horror Within",
+            "latest": "1",
+            "versionNames": {
+                "1": "Version 1.3"
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/horror_within.rar"
+            },
+            "patches": []
+        },
+        "rocket_game": {
+            "name": "Rocket Game",
+            "latest": "1",
+            "versionNames": {
+                "1": "Version 1"
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/rocket_game.rar"
+            },
+            "patches": []
         }
     }
 }
