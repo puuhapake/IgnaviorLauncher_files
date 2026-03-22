@@ -138,14 +138,22 @@
         },
         "kundi_sim": {
             "name": "Pihakundit Simulator",
-            "latest": "1",
+            "latest": "2",
             "versionNames": {
-                "1": "Original"
+                "1": "Original",
+                "2": "Remastered"
             },
             "base": {
                 "version": "1",
                 "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/kundi_sim.rar"
+            },
+            "patches": [
+            {
+                "from": "1",
+                "to": "2",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/kundi_sim_v2.rar"
             }
+            ]
         }
     }
 }
