@@ -165,6 +165,18 @@
                 "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/kundi_sim_v2.rar"
             }
             ]
+        },
+        "gun_jenga": {
+            "name": "Gun Jenga",
+            "latest": "1",
+            "versionNames": {
+                "1": "Version 1"
+            },
+            "base": {
+                "version": "1",
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/gun_jenga.rar"
+            },
+            "patches": []
         }
     }
 }
