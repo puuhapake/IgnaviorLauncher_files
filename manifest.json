@@ -13,19 +13,24 @@
     "games": {
         "tuusula": {
             "name": "Tuusula",
-            "latest": "1",
+            "latest": "2",
             "versionNames": {
-                "1": "v2.0 Morbror Göran"
+                "1": "1.0 Välkommen till Tusby",
+                "2": "2.0 Morbror Göran"
             },
             "base": {
                 "version": "1",
-                "parts": [
-                    { "url" : "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula.part1.rar" },
-                    { "url" : "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula.part2.rar" }
-                ]
+                "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula.rar"
             },
             "patches": [
-            
+                {
+                    "from": "1",
+                    "to": "2",
+                    "parts": [
+                        { "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_patch2.part1.rar" },
+                        { "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_patch2.part2.rar" }
+                    ]
+                }
             ]
         },
         "boat_game": {
