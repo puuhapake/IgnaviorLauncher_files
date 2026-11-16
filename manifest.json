@@ -13,11 +13,12 @@
     "games": {
         "tuusula": {
             "name": "Tuusula",
-            "latest": "3",
+            "latest": "4",
             "versionNames": {
                 "1": "1.0 Välkommen till Tusby",
                 "2": "2.0 Morbror Göran",
-                "3": "3.0 Ut till hundrade år"
+                "3": "3.0 Ut till hundrade år",
+                "4": "3.1 Bubbeleh"
             },
             "base": {
                 "version": "1",
@@ -40,6 +41,11 @@
                         { "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_patch3.part2.rar" },
                         { "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_patch3.part3.rar" }
                     ]
+                },
+                {
+                    "from": "3",
+                    "to": "4",
+                    "url": "https://github.com/puuhapake/IgnaviorLauncher_files/releases/download/content/tuusula_patch3-1.rar"
                 }
             ]
         },
